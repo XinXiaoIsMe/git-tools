@@ -1,0 +1,12 @@
+{
+  "versionBranchMap": {
+    "V3.2.2.1": ["V3.2.2.1B","V3.2.2.1-sss","V3.2.2.1-sinap","V3.2.2.1-xemc","V3.2.2.1-CNP"],
+    "V3.2.3.0": ["V3.2.3.0B","V3.2.3.0-JINLUN","V3.2.3.0-xp","V3.2.3.0-CSYZ","V3.2.3.0-demo"],
+    "VLS": ["disc-dev","xiaoxin-uat"]
+  },
+  "aliases": {
+    "gs": "git status",
+    "gp": "git push",
+    "gl": "git pull"
+  }
+}

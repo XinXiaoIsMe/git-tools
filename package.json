@@ -1,0 +1,15 @@
+{
+  "name": "@bestwu/git-tools",
+  "version": "1.0.0",
+  "description": "Git helper tools with gcpick and alias",
+  "type": "module",
+  "bin": {
+    "gcpick": "./bin/gcpick.js",
+    "gcp": "./bin/gcp.js",
+    "gcp-completion": "./bin/install-completion.js"
+  },
+  "keywords": ["git", "cherry-pick", "alias", "cli"],
+  "author": "XinXiaoIsMe",
+  "license": "MIT",
+  "packageManager": "pnpm@10.15.0"
+}
